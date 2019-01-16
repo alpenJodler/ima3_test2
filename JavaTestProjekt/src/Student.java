@@ -1,5 +1,5 @@
 
-public abstract class Student {
+public  class Student {
 	private String name;
 	private int gebJahr;
 	private String studiengang;
