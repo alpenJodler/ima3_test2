@@ -2,3 +2,4 @@
 # Testprojekt für Git-Aktionen
 Änderung im Zweig Branch1
 Änderungen im Hauptast
+Änderungen im Zweig Branch2
